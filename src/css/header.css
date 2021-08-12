@@ -1,0 +1,40 @@
+.content_header {
+    background-color: rgb(221, 221, 221);
+    padding: 5px 15px !important;
+    grid-area: header;
+}
+
+.logo_img {
+    width: 80px;
+    height: 43px;
+    background-color: rgb(194, 194, 194);
+}
+
+.header_title {
+    padding: 5px 50px;
+    margin: 0px 20px;
+    font-size: 18px !important;
+    background-color: rgb(73, 73, 73);
+}
+
+.elements_nav a{
+    background-color: rgb(133, 133, 133);
+    width: 110px;
+    margin: 0px 3px;
+    font-size: 15px;
+    padding: 5px ;
+    text-align: center;
+}
+
+.element_nav a{
+    background-color: rgb(73, 73, 73);
+    margin: 0 2px;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+#responsive_navbar {
+    justify-content: flex-end;
+}
